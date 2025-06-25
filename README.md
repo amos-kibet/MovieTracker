@@ -2,6 +2,11 @@
 
 A comprehensive JavaScript learning project focused on **constructors**, **conditionals**, **operators**, and **objects**. Build a movie collection manager that tracks viewing progress, ratings, and recommendations.
 
+<img width="1450" alt="Screenshot 2025-06-25 at 17 13 16" src="https://github.com/user-attachments/assets/dae92306-c799-4245-b286-7696f21fe396" />
+
+
+
+
 ## 📚 Learning Objectives
 
 By completing this exercise, you will learn:
